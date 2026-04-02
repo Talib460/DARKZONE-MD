@@ -1,4 +1,4 @@
-// DARKZONE-MD 
+// 🍷𓆩𝐓𝐚𝐥𝐢𝐛᭄𝐌𝐃🚩 
 var commands = [];
 
 function cmd(info, func) {
